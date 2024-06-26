@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+    <link rel="stylesheet" href="style2.css" />
+  </head>
+  <body>
+    <nav>
+      <img src="image/Logo anis new.png" class="img-fluid" width="90 height=90"> 
+      <div class="logo">E-RESUME ANIS AZIZI</div>
+      
+      <div class="nav-items">
+        <a href="file:///C:/Users/ANIS%20AFIQAH/Documents/ANIS%20AFIQAH%20AZIZI_2023485258_WEBSITE%20E-RESUME/index.html">Home</a> <a href="file:///C:/Users/ANIS%20AFIQAH/Documents/ANIS%20AFIQAH%20AZIZI_2023485258_WEBSITE%20E-RESUME/profile.html">Profile</a> <a href="file:///C:/Users/ANIS%20AFIQAH/Documents/ANIS%20AFIQAH%20AZIZI_2023485258_WEBSITE%20E-RESUME/background.html"> Background</a> <a href="file:///C:/Users/ANIS%20AFIQAH/Documents/ANIS%20AFIQAH%20AZIZI_2023485258_WEBSITE%20E-RESUME/education.html"> Education</a> <a href="file:///C:/Users/ANIS%20AFIQAH/Documents/ANIS%20AFIQAH%20AZIZI_2023485258_WEBSITE%20E-RESUME/Detail.html"> Detail</a> <a href="file:///C:/Users/ANIS%20AFIQAH/Documents/ANIS%20AFIQAH%20AZIZI_2023485258_WEBSITE%20E-RESUME/referencesperson.html"> References Person</a>
+      </div>
+    </nav>
+    <section class="hero">
+      <div class="hero-container">
+        <div class="column-left"> 
+          <h1>VIDEO E-RESUME ANIS AZIZI</h1>
+          <title>Video Player</title>
+        </head>
+        <body>
+            <h2></h2>
+            <style class="sheet css"></style>
+            
+            <video width="640" height="360" controls>
+                <source src="video/E-RESUME_Video_ ANIS AZIZI.mp4" type="video/mp4">
+                <!-- Provide alternate sources for compatibility -->
+                Your browser does not support the video tag.
+            </video>
+            <footer>
+              <p></p>
+              <footer>
+                <div class="footerContainer">  
+                </div>
+                <div class="footerBottom">
+                    <p>Copyright 2024 : by <span class="designer">© Anis Azizi</span></p>
+                </div>
+            </footer>
+          </footer>
+      </body>
